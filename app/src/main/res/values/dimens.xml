@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="accinfo_data_text">20sp</dimen>
+    <dimen name="accinfo_label_text">18sp</dimen>
+    <dimen name="accinfo_pad_Start">10dp</dimen>
+</resources>
